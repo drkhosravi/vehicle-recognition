@@ -30,7 +30,7 @@ input_size = 256 if model_name.find('vgg') != -1 else 256
 
 mode = 'train' #train or test
 #test_model = "vgg11-SGD-cuda-batch-32-99.24\\ep26-acc99.24-loss0.0346.pth"
-test_model = "darknet53-SGD-cuda-batch-32-99.38\\ep22-acc99.38-loss0.0328.pth"
+#test_model = "darknet53-SGD-cuda-batch-32-99.38\\ep22-acc99.38-loss0.0328.pth"
 #test_model = "car3conv-SGD-cuda-batch-64-95.70\\ep27-acc95.70-loss0.1420.pth"
 #test_model = "car3conv-SGD-cuda-batch-64-bn-96.30\\ep48-acc96.30-loss0.1126.pth"
 #test_model = "car5conv-SGD-cuda-batch-32-bn-98.63\\ep41-acc98.63-loss0.0709.pth"
